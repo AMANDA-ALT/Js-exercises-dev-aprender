@@ -13,11 +13,12 @@ else
 
 // will log 9 in this case
 
-//Usando operador ternário:
+/*Usando operador ternário:
 
-/*let maxValue = max(5,9);
+let maxValue = max(45,67);
 console.log(maxValue);
+
 function max(num1, num2) {
-   return num1 > num2 ? num1 : num2;*/
-}
+   return num1 > num2 ? num1 : num2;
+}*/
 
